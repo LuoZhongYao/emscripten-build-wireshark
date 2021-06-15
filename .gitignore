@@ -1,5 +1,7 @@
 # Prerequisites
 *.d
+download/
+target/
 
 # Object files
 *.o
